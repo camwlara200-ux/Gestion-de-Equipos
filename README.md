@@ -1,6 +1,6 @@
 # Inventario de Laboratorio Informático
 
-**Estudiante:** _(completar)_
+**Estudiante:** _Camila Lara_
 **Curso:** 2do Año — Bachillerato Técnico en Informática
 **Materias:** Software y Laboratorio Informático
 **Colegio:** Colegio Nacional E.M.D. Asunción Escalada — 2026
@@ -62,8 +62,8 @@ Tabla `componentes` (ver `schema.sql`):
 
 ## Publicación
 
-- Repositorio: `<pegar enlace de GitHub>`
-- Sistema publicado: `<pegar enlace de GitHub Pages / Render>`
+- Repositorio: `https://github.com/camwlara200-ux/Gestion-de-Equipos`
+- Sistema publicado: `https://camwlara200-ux.github.io/Gestion-de-Equipos/`
 
 ## Seguridad
 
